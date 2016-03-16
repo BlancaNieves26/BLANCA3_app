@@ -1,0 +1,13 @@
+{
+  "name": "BLANCA3_app",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
